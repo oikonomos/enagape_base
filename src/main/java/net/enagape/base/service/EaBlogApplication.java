@@ -1,0 +1,13 @@
+package net.enagape.base.service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EaBlogApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EaBlogApplication.class, args);
+	}
+
+}
