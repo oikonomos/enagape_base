@@ -1,0 +1,9 @@
+/.project
+/.classpath
+/.settings/
+/.gothubtoken.txt
+/target/
+/mvnw.cmd
+/mvnw
+/HELP.md
+/README.md
