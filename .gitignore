@@ -7,3 +7,9 @@
 /mvnw
 /HELP.md
 /README.md
+
+/src/main/resporces/dev/
+/src/main/resporces/prod/
+/src/main/resporces/test/
+/src/main/resporces/application.properties
+
