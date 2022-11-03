@@ -9,5 +9,4 @@ public class EnagapeBaseApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EnagapeBaseApplication.class, args);
 	}
-
 }
